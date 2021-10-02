@@ -1,1 +1,0 @@
-Exersice: Function pointers
